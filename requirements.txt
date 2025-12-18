@@ -4,3 +4,4 @@ transformers==4.36.0
 accelerate==0.25.0
 pillow
 python-telegram-bot==21.0
+requests
